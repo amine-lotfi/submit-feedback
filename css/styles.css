@@ -1,0 +1,13 @@
+/* Google fonts: Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700;800;900&display=swap");
+
+:root {
+    --bg-color: ;
+    --text-color: ;
+    --main-color: ;
+}
+
+* {
+    font-family: Poppins, Arial;
+    font-weight: 500;
+}
